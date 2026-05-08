@@ -1,4 +1,4 @@
-📊 Power BI Projects
+📊 Power BI Projects\
 Welcome to my Power BI Projects folder! This section of my data analysis portfolio showcases my ability to transform raw data into meaningful, interactive dashboards and business intelligence reports using Microsoft Power BI.
 🔧 Skills Demonstrated
 
