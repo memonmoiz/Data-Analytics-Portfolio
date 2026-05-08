@@ -1,6 +1,7 @@
 📊 Power BI Projects\
 Welcome to my Power BI Projects folder! This section of my data analysis portfolio showcases my ability to transform raw data into meaningful, interactive dashboards and business intelligence reports using Microsoft Power BI.
-🔧 Skills Demonstrated
+
+🔧 Skills Demonstrated\
 
 Data Importing & Transformation — Connecting to various data sources and cleaning data using Power Query
 Data Modeling — Building relationships between tables and creating efficient data models
@@ -10,20 +11,20 @@ Business Insights — Translating data into actionable insights for decision-mak
 
 📁 Projects Included
 
-Coming Soon
- More projects will be added regularly—
+Coming Soon\
+More projects will be added regularly—
 
 🛠️ Tools & Technologies
 
-Microsoft Power BI Desktop
-Power Query (M Language)
-DAX (Data Analysis Expressions)
+Microsoft Power BI Desktop\
+Power Query (M Language)\
+DAX (Data Analysis Expressions)\
 Excel / CSV Data Sources
 
 📌 How to View
 
-Download the .pbix file from the project folder
-Open it using Microsoft Power BI Desktop (free to download)
+Download the .pbix file from the project folder\
+Open it using Microsoft Power BI Desktop (free to download)\
 Explore the interactive report and dashboard
 
 
