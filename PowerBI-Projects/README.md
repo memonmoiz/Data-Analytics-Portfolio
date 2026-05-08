@@ -1,7 +1,7 @@
 📊 Power BI Projects\
 Welcome to my Power BI Projects folder! This section of my data analysis portfolio showcases my ability to transform raw data into meaningful, interactive dashboards and business intelligence reports using Microsoft Power BI.
 
-🔧 Skills Demonstrated\
+🔧 Skills Demonstrated
 
 Data Importing & Transformation — Connecting to various data sources and cleaning data using Power Query
 Data Modeling — Building relationships between tables and creating efficient data models
